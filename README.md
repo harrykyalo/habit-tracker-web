@@ -1,2 +1,2 @@
 # habit-tracker-web
-Habit Tracker web app — React + Vite, localStorage, push notifications, import/export, service worker, server example
+This a simple web app that you can use to track your daily activities
